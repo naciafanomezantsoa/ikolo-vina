@@ -1,5 +1,5 @@
 # Cloner le repo
-git clone https://github.com/LanjaFii/ikolo-vina.git
+git clone https://github.com/naciafanomezantsoa/ikolo-vina.git
 
 # Aller dans le dossier
 cd ikolo-vina
