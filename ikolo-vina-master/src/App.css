@@ -1,0 +1,25 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0rem;
+  text-align: center;
+}
+
+/* App.css */
+.text-special-1 { color: var(--color-special-1); }
+.text-special-2 { color: var(--color-special-2); }
+.text-special-3 { color: var(--color-special-3); }
+.text-special-4 { color: var(--color-special-4); }
+.text-special-5 { color: var(--color-special-5); }
+
+.bg-special-1 { background-color: var(--color-special-1); }
+.bg-special-2 { background-color: var(--color-special-2); }
+.bg-special-3 { background-color: var(--color-special-3); }
+.bg-special-4 { background-color: var(--color-special-4); }
+.bg-special-5 { background-color: var(--color-special-5); }
+
+
+.card {
+  padding: 2em;
+}
+

@@ -1,0 +1,928 @@
+{
+  "welcome": "Welcome to Ikolo-Vina",
+  "login": "Login",
+  "logout": "Logout",
+
+
+  "header": {
+    "links": {
+      "home": "Home",
+      "wellness": "Nature Wellness",
+      "digital": "Digital Communication",
+      "events": "Events",
+      "enterprise": "Entrepreneurship Support",
+      "rse": "CSR Support",
+      "blog": "News",
+      "contact": "Contact"
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner for innovative and sustainable solutions",
+    "contact": {
+      "email": "ikolovinaconsortium@gmail.com",
+      "address": "Antanimena, Antananarivo 101",
+      "button": "Contact us"
+    },
+    "navigation": {
+      "title": "Navigation"
+    },
+    "newsletter": {
+      "title": "Stay informed",
+      "description": "Subscribe to receive our latest news and special offers",
+      "placeholder": "Your email address",
+      "subscribe": "Subscribe"
+    },
+    "social": {
+      "title": "Follow us"
+    },
+    "websites": {
+      "title": "Our websites"
+    },
+    "legal": {
+      "terms": "Legal notice",
+      "privacy": "Privacy policy"
+    },
+    "copyright": "© {{year}} Ikolo-Vina. All rights reserved."
+  },
+
+  "offers": {
+    "learnMore": "Learn more",
+    "modal": {
+      "presentation": "Service presentation",
+      "services": "Our services",
+      "benefits": "Client benefits",
+      "contact": {
+        "title": "Information request",
+        "description": "Our team is available to study your project and propose a tailored solution.",
+        "email": "Email",
+        "phone": "Phone"
+      }
+    },
+    "1": {
+      "title": "Nature Wellness",
+      "shortDescription": "Flagship program to reveal the essence and performance of your wellness center or spa",
+      "fullDescription": "Discover our flagship program 'Nature & Wellness Consulting', designed to reveal the essence and performance of your wellness center or spa through medicinal and aromatic plants and sustainable knowledge from Madagascar. Inspired by the island's exceptional biodiversity, this program transforms wellness spaces into immersive, sensory, and regenerative experiences, aligned with global holistic trends.",
+      "features": [
+        "Initial diagnosis and audit of your facilities",
+        "Architectural optimization of spaces - signature ambiance",
+        "Training & workshops for therapists",
+        "Marketing & communication - studies and implementation",
+        "Leadership & team management",
+        "Research & development of care products",
+        "Performance monitoring & evaluation"
+      ],
+      "benefits": [
+        "Innovative modernization of your services with natural care",
+        "Reassuring and attractive environment for your clients",
+        "Integration of regenerative therapies and natural products",
+        "Profitability boost and attraction of new niches",
+        "Promotion of holistic health and reduced environmental impact"
+      ]
+    },
+    "2": {
+      "title": "Digital Communication",
+      "shortDescription": "Strengthening web and social media presence for increased visibility",
+      "fullDescription": "Objective: Strengthen SMEs' presence on the web and social media for increased visibility and sustainable engagement. We offer complete digital strategies including audit, content creation, targeted campaigns, and training to empower your teams.",
+      "features": [
+        "Digital communication audit to identify strengths and weaknesses",
+        "Creation and management of professional pages (Facebook, LinkedIn, Instagram, TikTok, YouTube)",
+        "Awareness and engagement campaigns with storytelling inspired by Malagasy nature",
+        "Turnkey website creation adapted to your needs",
+        "Internal training in social media management and digital marketing",
+        "Monthly reporting with metrics (reach, engagement)"
+      ],
+      "benefits": [
+        "30-50% audience increase within 6 months",
+        "Personalized digital strategy and editorial calendar",
+        "Professional graphic kits (templates, visuals)",
+        "Promotion of eco-responsible messages",
+        "Empowerment of your teams in digital management"
+      ]
+    },
+    "3": {
+      "title": "Events",
+      "shortDescription": "Custom event organization to develop your network and credibility",
+      "fullDescription": "Objective: Enable SMEs to gain visibility, develop their network, and strengthen their credibility through custom events. We design and organize events adapted to your needs with complete management from logistics to communication.",
+      "features": [
+        "Design and organization of adapted events: fairs, forums, open houses, conferences",
+        "Complete management: logistics, nature-inspired scenography, animation",
+        "Integrated press and digital communication",
+        "Hybrid option: online broadcasting and interactive webinars",
+        "Detailed event plan and post-event follow-up"
+      ],
+      "benefits": [
+        "Increased media visibility (articles, posts)",
+        "Post-event impact report with feedback and generated leads",
+        "International reach through hybrid options",
+        "Turnkey events without stress",
+        "Strengthened notoriety and credibility"
+      ]
+    },
+    "4": {
+      "title": "Entrepreneurship Support",
+      "shortDescription": "Support for entrepreneurs and project holders",
+      "fullDescription": "We support Malagasy entrepreneurs at every stage of their journey for inclusive and sustainable growth. From creation to management through digitalization, we accompany your development with tools adapted to the local context.",
+      "features": [
+        "Support and Training in Business Creation: viable business plan focused on green sectors",
+        "Business Management Support and Training: finance, HR and operations optimization",
+        "Integrated climate resilience modules",
+        "Business Digitalization Support: e-commerce, CRM",
+        "Personalized mentoring and continuous follow-up"
+      ],
+      "benefits": [
+        "40% reduction in failure risk through personalized mentoring",
+        "Structuring your idea into a viable business plan",
+        "Optimization of financial and operational management",
+        "Successful digital transition to e-commerce",
+        "Development of business management skills"
+      ]
+    },
+    "5": {
+      "title": "CSR Support",
+      "shortDescription": "CSR integration for positive impact on environment and society",
+      "fullDescription": "Integrate Corporate Social Responsibility (CSR) for positive impact on environment and society. We accompany you in implementing concrete CSR strategies adapted to the Malagasy context, from energy optimization to community development.",
+      "features": [
+        "Energy Optimization: audits and solutions (solar panels, efficiency)",
+        "Waste Management: adapted recycling and zero waste strategies",
+        "Workplace Wellness: wellness programs for employees",
+        "Local Income-Generating Activities Development: support for revenue-generating activities",
+        "Local Resources Valorization: sustainable supply chains"
+      ],
+      "benefits": [
+        "Internationally recognized CSR certifications",
+        "Detailed annual impact reports",
+        "Reduced energy costs and optimized waste management",
+        "Improved employee well-being and motivation",
+        "Contribution to sustainable development of local communities"
+      ]
+    }
+  },
+
+
+  "home": {
+    "hero": {
+      "badge": "Excellence & Innovation",
+      "title": "Welcome to IKOLO-VINA",
+      "subtitle": "Welcome to IKOLO-VINA, your partner for harmonious development combining nature, well-being and innovation.",
+      "discoverButton": "Discover our services",
+      "contactButton": "Contact us"
+    },
+    "consortium": {
+      "title": "The consortium",
+      "subtitle": "A Visionary and Sustainable Alliance",
+      "description": "The Ikolo-Vina consortium brings together two founders with complementary expertise - one scientific and technical, the other strategic and organizational. Together, they design solutions integrating biodiversity, sustainability and human well-being, serving a green and inclusive economy.",
+      "expertise": {
+        "title": "Scientific Expertise",
+        "description": "Recognized mastery in process engineering, cosmetic formulation and sustainable management of natural resources."
+      },
+      "leadership": {
+        "title": "Strategic Leadership",
+        "description": "Expertise in organization, communication and coordination of partnerships between public and private sectors."
+      },
+      "vision": {
+        "title": "Sustainable Vision",
+        "description": "Our actions promote biodiversity, environmental sustainability and a resilient green economy."
+      },
+      "partnerships": {
+        "title": "Inclusive Partnerships",
+        "description": "We create bridges between economic and social actors for positive and shared impacts."
+      }
+    },
+    "founders": {
+      "title": "The Visionaries behind the Consortium",
+      "felana": {
+        "name": "Felana Anna RAMAHANDRISON",
+        "description": "With solid experience in event organization and institutional communication, she excels in connecting public and private partners. Graduated in Sustainable Tourism Management and Communication & Marketing, she has managed more than 15 major events, fostering effective collaborations. Specialist in hybrid campaigns, she focuses on inclusion, social impact and promoting sustainable development.",
+        "mobileDescription": "Visionary entrepreneur and founder of Vina Consulting, Felana Anna brings her expertise in business strategy and digital innovation. Passionate about sustainable economic development, she transforms challenges into opportunities."
+      },
+      "holiniaina": {
+        "name": "Holiniana Norohariliva RAKOTOMALALA",
+        "description": "She enhances Malagasy biodiversity through her expertise in chemical processes, cosmetic formulation and sustainable management of natural resources. With over 15 years of experience and training in applied chemistry, she designs conferences adapted to local and international issues. Supported by a network of experts, she develops eco-responsible formulations based on biotherapeutic active ingredients and essential oils, combining ecosystem protection and value creation for communities.",
+        "mobileDescription": "Founder of Ikolo, a company specialized in cosmetic and medicinal products based on Malagasy plants. Entrepreneur committed to the valorization of natural resources and well-being through plants."
+      }
+    },
+    "offers": {
+      "title": "Our Tailored Offers",
+      "subtitle": "Discover our complete range of services designed to meet all your business development and innovation needs."
+    },
+    "partners": {
+      "title": "They trusted us",
+      "subtitle": "Discover the companies and organizations that have collaborated with us"
+    },
+    "cta": {
+      "title": "Ready to transform your vision into reality?",
+      "description": "Contact us today to discuss your project and discover how our expertise can support you towards success.",
+      "offer": "First meeting offered!",
+      "contactButton": "Contact us",
+      "footer": "Response within 24h • Customized quote • Tailored support"
+    }
+  },
+
+
+  "wellness": {
+    "hero": {
+      "alt": "Nature Wellness background",
+      "badge": "Malagasy Authenticity",
+      "title": "Nature Wellness",
+      "subtitle": "Malagasy essence, your authentic well-being"
+    },
+    "program": {
+      "title": "Discover our flagship program",
+      "logoAlt": "Nature Wellness Logo",
+      "description": "designed to reveal the essence and optimize the performance of your wellness center. Drawing from Malagasy medicinal plants and sustainable traditional knowledge, we transform your space into an immersive, sensory, and regenerative experience, perfectly aligned with international holistic trends."
+    },
+    "existingCenters": {
+      "title": "For existing Wellness Centers and Spas",
+      "description": "We modernize your services by integrating natural treatments based on Malagasy plants (Ravintsara, Ylang-Ylang), a cocooning ambiance and eco-responsible products. Our audit identifies your distinctive assets to boost profitability and attract clients seeking authenticity.",
+      "deliverables": "Deliverables:",
+      "deliverablesList": " Modernization plan, natural care kits, team training, performance/satisfaction impact reports."
+    },
+    "newCenters": {
+      "title": "For new Wellness Centers and Spas:",
+      "description": "We create distinctive and profitable wellness spaces, integrating innovative treatments with Malagasy plants, soothing ambiances and experiential marketing. Position Madagascar as a regional reference in health tourism and ethical luxury.",
+      "deliverables": "Deliverables:",
+      "deliverablesList": " Strategic creation plan, complete immersive offer, sustainable certifications for international visibility."
+    },
+    "images": {
+      "spa1": "spa",
+      "spa2": "spa"
+    },
+    "globalBenefits": {
+      "title": "Global benefits: ",
+      "description": "Promote holistic health, reduce environmental impact through local value chains and create partnerships with producers for sustainable development."
+    },
+    "productsServices": {
+      "title": "Our Products and Services"
+    },
+    "services": {
+      "diagnostic": {
+        "imageAlt": "Wellness center diagnostic",
+        "title": "INITIAL DIAGNOSTIC",
+        "subtitle": "of your wellness center",
+        "description": "To propose the appropriate support program",
+        "features": [
+          "On-site visit to inventory existing elements (location, layout, decoration, therapies)",
+          "Interviews with managers and therapists to define vision, objectives and needs"
+        ]
+      },
+      "optimization": {
+        "imageAlt": "Architectural optimization",
+        "title": "ARCHITECTURAL OPTIMIZATION",
+        "subtitle": "« signature » ambiance interior and exterior",
+        "description": "Creation of harmonious and functional spaces",
+        "features": [
+          "Space conception and architecture – arrangement of care and waiting areas",
+          "Decoration: design and ambiance"
+        ]
+      },
+      "training": {
+        "imageAlt": "Training and workshops",
+        "title": "TRAINING & WORKSHOPS",
+        "subtitle": "Individual or group training",
+        "features": [
+          "Quality welcome and customer experience – care ethics",
+          "Improvement in Classical Therapies: massage techniques – rituals – care language",
+          "Trendy, innovative treatments and communion with nature",
+          "Plant-derived products, sales and advice"
+        ]
+      },
+      "marketing": {
+        "imageAlt": "Marketing and communication",
+        "title": "MARKETING & COMMUNICATION",
+        "subtitle": "targeted communication",
+        "features": [
+          "Visual identity, « signature » brand image, positioning",
+          "Design of exclusive offers – focused on environmental preservation, commercial orientation and CSR projects",
+          "Communication strategy, priority distribution channels and promotional materials"
+        ]
+      },
+      "leadership": {
+        "imageAlt": "Nature Wellness background",
+        "title": "LEADERSHIP & MANAGEMENT",
+        "subtitle": "Development of managerial skills.",
+        "description": "Key Skills:",
+        "features": [
+          "Wellness Leadership - Team Management - change management",
+          "Operational and Financial Management training",
+          "Professional coaching for Managers and therapists"
+        ]
+      },
+      "research": {
+        "imageAlt": "Nature Wellness background",
+        "title": "RESEARCH & DEVELOPMENT",
+        "subtitle": "Range of therapeutic care products adapted to the center's offer, its new image, meeting current standards (environmental and others): Professional formats and Client formats",
+        "description": "Some products and services offered:",
+        "features": [
+          "Essential oils, serums and massage oils for aromatic treatments",
+          "Balms and creams for body care",
+          "Soaps and bath salts for wellness rituals",
+          "Sharing workshops: Collaborative meetings between actors in the 'plant' chain (therapists, producers, researchers...) to create links and optimize synergies, even without knowing each other."
+        ]
+      },
+      "monitoring": {
+        "imageAlt": "Nature Wellness background",
+        "title": "MONITORING & EVALUATION",
+        "description": "Restitution – monitoring and analysis of performance indicators – strategic adjustments"
+      },
+      "pack": {
+        "imageAlt": "Nature Wellness background",
+        "title": "ESSENTIAL PACK",
+        "description": "DIAGNOSTIC – ARCHITECTURAL OPTIMIZATION – TRAINING AND WORKSHOPS – MONITORING AND EVALUATION"
+      }
+    },
+    "cta": {
+      "title": "Ready to find harmony and balance through the power of nature?",
+      "description": "Contact us today to discuss your project and discover how our expertise can support you towards success.",
+      "offer": "First meeting offered!",
+      "button": "Contact us",
+      "footer": "Response within 24h • Customized quote • Tailored support"
+    }
+  },
+
+
+  "digital": {
+    "hero": {
+      "badge": "Digital Communication",
+      "title": "Boost Your Online Presence",
+      "subtitle": "Custom digital strategies to enhance your business in Madagascar and reach new markets",
+      "imageAlt": "Digital communication"
+    },
+    "services": {
+      "title": "Our Digital Services",
+      "subtitle": "A complete range of services to cover all your digital communication needs",
+      "0": {
+        "title": "Audit & Digital Strategy",
+        "description": "Complete analysis of your online presence and development of a customized strategy to achieve your goals.",
+        "features": [
+          "Online presence audit",
+          "Competitive analysis",
+          "Personalized digital strategy",
+          "Detailed action plan"
+        ]
+      },
+      "1": {
+        "title": "Website Creation",
+        "description": "Modern, responsive, and optimized websites to convert your visitors into customers.",
+        "features": [
+          "Responsive showcase websites",
+          "E-commerce",
+          "Institutional websites",
+          "Website redesign"
+        ]
+      },
+      "2": {
+        "title": "Social Media Management",
+        "description": "Develop your community and engage your audience on social platforms.",
+        "features": [
+          "Professional page creation",
+          "Content strategy",
+          "Community management",
+          "Advertising campaigns"
+        ]
+      },
+      "3": {
+        "title": "Digital Marketing",
+        "description": "Increase your visibility and generate more leads with our marketing strategies.",
+        "features": [
+          "Natural referencing (SEO)",
+          "SEA campaigns",
+          "Email marketing",
+          "Analytics & reporting"
+        ]
+      },
+      "4": {
+        "title": "Digital Training",
+        "description": "Empower your teams with our training on digital tools and strategies.",
+        "features": [
+          "Digital tools training",
+          "Team empowerment",
+          "Practical workshops",
+          "Continuous support"
+        ]
+      }
+    },
+    "process": {
+      "title": "Our 5-Step Process",
+      "subtitle": "A proven methodology to ensure the success of your digital transformation",
+      "steps": [
+        {
+          "title": "Complete Audit",
+          "description": "In-depth analysis of your digital situation"
+        },
+        {
+          "title": "Custom Strategy",
+          "description": "Development of a personalized action plan"
+        },
+        {
+          "title": "Implementation",
+          "description": "Deployment of digital solutions"
+        },
+        {
+          "title": "Training",
+          "description": "Empowerment of your teams"
+        },
+        {
+          "title": "Monitoring & Optimization",
+          "description": "Continuous performance improvement"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose IKOLO-VINA?",
+      "imageAlt": "IKOLO-VINA Team",
+      "items": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep knowledge of the Malagasy market and cultural specificities"
+        },
+        {
+          "title": "Sustainable Approach",
+          "description": "Responsible digital strategies with a long-term vision"
+        },
+        {
+          "title": "Measurable Results",
+          "description": "Precise performance tracking and continuous adjustments to maximize your ROI"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to transform your digital presence?",
+      "description": "Contact us today for a free audit and discover how our digital solutions can propel your business to new heights.",
+      "offer": "First meeting offered!",
+      "button": "Contact us",
+      "footer": "Response within 24h • Customized quote • Tailored support"
+    }
+  },
+
+
+  "events": {
+    "hero": {
+      "badge": "Events & Networking",
+      "title": "Custom Event Planning",
+      "subtitle": "Develop your network, strengthen your credibility and promote your SME through our professional events tailored to your ambitions.",
+      "imageAlt": "Ikolo Vina Events"
+    },
+    "services": {
+      "0": {
+        "badge": "Premium Service",
+        "title": "Design & Organization",
+        "description": "Creation of custom events adapted to your specific objectives. We transform your ideas into memorable experiences.",
+        "features": [
+          "Trade fairs and professional exhibitions",
+          "Specialized sector forums",
+          "Open house days",
+          "Conferences and symposia",
+          "Innovative product launches"
+        ]
+      },
+      "1": {
+        "badge": "Complete Management",
+        "title": "Complete Event Management",
+        "description": "Total management of your event, from logistics to animation, for impeccable and stress-free results.",
+        "features": [
+          "Complete logistics (venues, equipment)",
+          "Nature-inspired scenography",
+          "Dynamic and professional animation",
+          "Press and digital communication",
+          "Speaker coordination"
+        ]
+      },
+      "2": {
+        "badge": "Digital Innovation",
+        "title": "Hybrid & International Formats",
+        "description": "Extend your reach beyond borders with our innovative hybrid solutions for an international audience.",
+        "features": [
+          "Live online broadcasting",
+          "Interactive webinars",
+          "Extended international reach",
+          "Multilingual digital platforms",
+          "Analytics and performance reports"
+        ]
+      }
+    },
+    "approach": {
+      "title": "Our Event Approach",
+      "subtitle": "A proven 4-step methodology to ensure the success of your events",
+      "steps": [
+        {
+          "title": "Diagnosis & Strategy",
+          "description": "In-depth analysis of your objectives, targets and constraints to define a custom event strategy."
+        },
+        {
+          "title": "Creative Design",
+          "description": "Design of unique experiences integrating natural scenography, engaging content and innovative solutions."
+        },
+        {
+          "title": "Impeccable Execution",
+          "description": "Complete operational management with a dedicated team to ensure smooth and professional execution."
+        },
+        {
+          "title": "Impact Measurement",
+          "description": "Post-event analysis and strategic recommendations to maximize return on investment."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Why Choose Ikolo-Vina?",
+      "items": [
+        {
+          "title": "Complementary Expertise",
+          "description": "Unique alliance between scientific expertise and event communication skills."
+        },
+        {
+          "title": "Sustainable Approach",
+          "description": "Eco-responsible events integrating sustainable development and CSR principles."
+        },
+        {
+          "title": "Extended Network",
+          "description": "Access to a network of quality experts, partners and speakers across various sectors."
+        },
+        {
+          "title": "Hybrid Solutions",
+          "description": "Mastery of physical and digital formats for local and international reach."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Personalized solutions adapted to your budget, objectives and business sector."
+        }
+      ],
+      "commitment": "Our commitment: Transform your ideas into memorable experiences that strengthen your brand and develop your network."
+    },
+    "deliverables": {
+      "title": "Our Deliverables",
+      "subtitle": "Concrete and measurable results for every organized event",
+      "0": {
+        "title": "Detailed Event Plan",
+        "description": "Complete strategy including objectives, targets, schedule, budget and performance indicators for guaranteed success."
+      },
+      "1": {
+        "title": "Media Visibility",
+        "description": "Press and digital coverage: articles, social media posts, reports to maximize your exposure."
+      },
+      "2": {
+        "title": "Impact Report",
+        "description": "Post-event analysis with participant feedback, generated leads and recommendations for future events."
+      }
+    },
+    "cta": {
+      "title": "Ready to organize a memorable event?",
+      "description": "Contact us to discuss your event project and benefit from tailored support for its success.",
+      "offer": "First meeting offered!",
+      "button": "Contact us",
+      "footer": "Response within 24h • Customized quote • Tailored support"
+    }
+  },
+
+
+  "enterprise": {
+    "hero": {
+      "badge": "Entrepreneurship Support",
+      "title": "Sustainable Entrepreneurship.",
+      "subtitle": "Complete support for entrepreneurs to create, manage and digitalize their business sustainably.",
+      "imageAlt": "Entrepreneurship support"
+    },
+    "services": {
+      "title": "We support Malagasy entrepreneurs at every stage of their journey for inclusive and sustainable growth.",
+      "subtitle": "From creation to management, we offer strategic, practical and digital support to ensure their success.",
+      "0": {
+        "title": "Support and Training in Business Creation:",
+        "description": "Guidance to structure your idea into a viable business plan, with focus on green sectors"
+      },
+      "1": {
+        "title": "Business Management Support and Training:",
+        "description": "Tools to optimize finances, HR and operations, including modules on climate resilience."
+      },
+      "2": {
+        "title": "Business Digitalization Support:",
+        "description": "Transition to digital tools (e-commerce, CRM) to boost efficiency."
+      }
+    },
+    "benefits": {
+      "title": "Benefits:",
+      "subtitle": "Failure risks reduced by 40% thanks to personalized mentoring."
+    },
+    "cta": {
+      "title": "Ready to accelerate your entrepreneurial growth?",
+      "description": "Contact us today for a free audit and discover how our digital solutions can propel your business to new heights.",
+      "offer": "First meeting offered!",
+      "button": "Contact us",
+      "footer": "Response within 24h • Customized quote • Tailored support"
+    }
+  },
+
+
+  "rse": {
+    "hero": {
+      "badge": "CSR Support",
+      "title": "Corporate Social Responsibility",
+      "subtitle": "Give meaning to your business with a CSR strategy that creates sustainable value for your business, your employees and Madagascar",
+      "imageAlt": "IKOLO-VINA team in CSR reforestation project with Malagasy local community"
+    },
+    "vision": {
+      "title": "CSR, a transformative vision",
+      "description": "At IKOLO-VINA, we see CSR as a strategic opportunity to reinvent your business. Our unique approach combines sustainable innovation, local expertise and shared value creation."
+    },
+    "values": {
+      "0": {
+        "title": "Concrete Impact",
+        "description": "Measurable results that transform your business and its environment",
+        "alt": "CSR project showing concrete transformation results"
+      },
+      "1": {
+        "title": "Sustainable Excellence",
+        "description": "A quality approach that ensures the sustainability of your CSR initiatives",
+        "alt": "Certification and recognition of sustainable excellence"
+      },
+      "2": {
+        "title": "Responsible Growth",
+        "description": "Combining economic performance and social responsibility for harmonious development",
+        "alt": "Chart showing responsible economic growth"
+      },
+      "3": {
+        "title": "Community Engagement",
+        "description": "Create shared value with Malagasy local communities",
+        "alt": "Local community collaborating on CSR project"
+      }
+    },
+    "solutions": {
+      "title": "Our CSR Expertise Areas",
+      "subtitle": "A comprehensive approach covering all aspects of social responsibility",
+      "0": {
+        "title": "Energy Optimization",
+        "description": "Energy audits and renewable solutions to reduce your carbon footprint and costs.",
+        "benefits": [
+          "Complete energy audit",
+          "Solar and renewable solutions",
+          "Carbon footprint reduction",
+          "Sustainable savings"
+        ],
+        "alt": "Solar panel installation on the roof of a Malagasy company"
+      },
+      "1": {
+        "title": "Waste Management",
+        "description": "Zero waste strategy and resource valorization in a circular economy logic.",
+        "benefits": [
+          "Zero waste strategy",
+          "Recycling and valorization",
+          "Plastic reduction",
+          "Circular economy"
+        ],
+        "alt": "Waste sorting and recycling system in a Malagasy company"
+      },
+      "2": {
+        "title": "Workplace Well-being",
+        "description": "Wellness programs and quality of life improvement for your employees.",
+        "benefits": [
+          "Wellness programs",
+          "Quality of life at work",
+          "Work-life balance",
+          "Healthy work environment"
+        ],
+        "alt": "Well-being and relaxation space for employees in a company"
+      },
+      "3": {
+        "title": "Local Development",
+        "description": "Support for income-generating activities and creation of inclusive partnerships with Malagasy communities.",
+        "benefits": [
+          "Support for small producers",
+          "Short and fair circuits",
+          "Community development",
+          "Inclusive partnerships"
+        ],
+        "alt": "Sustainable agriculture project with Malagasy local community"
+      },
+      "4": {
+        "title": "Local Resources",
+        "description": "Integration of Malagasy natural resources into your sustainable value chain.",
+        "benefits": [
+          "Sustainable supply chains",
+          "Local and organic products",
+          "Biodiversity preservation",
+          "Eco-responsible innovation"
+        ],
+        "alt": "Valorization of Malagasy local products in a sustainable value chain"
+      }
+    },
+    "commitments": {
+      "title": "Our Commitment",
+      "subtitle": "A responsible and sustainable approach to serve your CSR transformation",
+      "0": {
+        "title": "Global Vision",
+        "description": "An integrated approach that considers all environmental, social and economic impacts of your company.",
+        "stat": "360°",
+        "statLabel": "Complete analysis"
+      },
+      "1": {
+        "title": "Continuous Innovation",
+        "description": "Creative solutions adapted to the specificities of the Malagasy market for truly transformative CSR.",
+        "stat": "15+",
+        "statLabel": "Innovative projects"
+      },
+      "2": {
+        "title": "Customized Support",
+        "description": "Personalized follow-up throughout your CSR transformation to guarantee sustainable and lasting results.",
+        "stat": "100%",
+        "statLabel": "Client satisfaction"
+      }
+    },
+    "mission": {
+      "title": "Our mission",
+      "description": "Accompany Malagasy companies in their CSR transformation to create a lasting positive impact on the environment, society and local economy, building together a more responsible and prosperous future for Madagascar."
+    },
+    "cta": {
+      "title": "Ready to act for sustainable impact?",
+      "description": "Together, let's make your CSR strategy a concrete lever for performance, engagement and meaning. Contact our team for support adapted to your challenges.",
+      "offer": "First meeting offered!",
+      "button": "Contact us",
+      "footer": "CSR diagnosis • Strategic advice • Custom sustainable solutions"
+    }
+  },
+
+
+  "blog": {
+    "hero": {
+      "title": "Our Articles",
+      "subtitle": "Discover the key events that have shaped our expertise in organizing and coordinating exceptional events.",
+      "imageAlt": "Ikolo Vina Blog"
+    },
+    "readMore": "Read more",
+    "modal": {
+      "imageAlt": "Image {{number}}"
+    },
+    "articles": {
+      "0": {
+        "title": "HOLINIAINA RAKOTOMALALA NOROHARILIVA: A SYNERGY ARCHITECT AT THE HEART OF THE INTERNATIONAL ECONOMIC ACTORS FAIR",
+        "excerpt": "Central role in the design, coordination and outreach of SIAE 2022-2023 as Director of External Relations and General Coordinator.",
+        "category": "Event Leadership",
+        "date": "2022-2023",
+        "readTime": "5 min",
+        "content": "Since its creation, the International Economic Actors Fair (SIAE) has established itself as an essential platform for meetings, reflection and collaboration between the driving forces of the Malagasy economy. During its first two editions — in 2022 and 2023 — Holiniaina Rakotomalala Norohariliva, founder of IKOLO, played a central role in the design, coordination and outreach of this major event, both nationally and internationally.\n\n🎯 **Strategic leadership serving openness**\nAs Director of External Relations of SIAE for both editions, Holiniaina orchestrated the institutional, diplomatic and sectoral links that allowed the fair to anchor itself in national and regional dynamics. Thanks to her keen sense of diplomacy and her ability to value local talents, she positioned SIAE as a convergence space between public, private and international actors.\n\n🧩 **Rigorous and inclusive coordination**\nIn parallel, she assumed the function of General Coordinator of the organization, ensuring logistical coherence, schedule fluidity and active partner involvement. Her inclusive approach mobilized a diversity of economic actors — entrepreneurs, institutions, cooperatives, donors — around a shared vision: that of a Malagasy economy rebuilt by its own forces.\n\n📣 **High-impact communication strategy**\nHoliniaina also supervised the fair's communication strategy, highlighting the values of innovation, collaboration and valorization of local initiatives. Through sensitive and strategic storytelling, she managed to radiate SIAE far beyond the fair's walls, in the media, social networks and influence circles.\n\n🤝 **An ambassador of economic networking**\nFinally, as organizer of B2B meetings, workshops and SIAE ambassador, she created bridges between entrepreneurs, investors and institutions. These meetings generated concrete opportunities for partnership, funding and growth for many project holders."
+      },
+      "1": {
+        "title": "INIM: CONGRESS ON THE VALORIZATION OF PLANT RAW MATERIALS",
+        "excerpt": "Coordination of INIM Congress 2022-2023 to valorize Malagasy natural ingredients in health, cosmetic and food sectors.",
+        "category": "Natural Innovation",
+        "date": "2022-2023",
+        "readTime": "6 min",
+        "content": "🌿 **INIM: CONGRESS ON THE VALORIZATION OF PLANT RAW MATERIALS FROM MALAGASY LANDS AND THE VALORIZATION OF THEIR NATIONAL AND INTERNATIONAL COMMERCIAL EXCHANGES**\n\nThe INIM Congress – Innovative Natural Ingredients Madagascar established itself, from its first two editions in 2022 and 2023, as an essential meeting for actors in the valorization of Malagasy natural ingredients (in the health, aromatherapy, cosmetics, food and bio-construction sectors). At the crossroads of biodiversity, research, entrepreneurship and sustainable development, this event brought together economic operators, institutions, donors and experts around a common ambition: to make Madagascar a regional leader in botanical innovation and responsible transformation.\n\n🤝 **Female coordination serving impact**\nAt the heart of this dynamic, Anna and Holy, two visionary entrepreneurs had the opportunity to carry the congress with rigor, creativity and commitment:\n\n• **Anna**, founder of Vina Consulting, ensured the overall coordination of the project, piloting the multi-channel communication strategy with institutional partners, PTF and economic operators. From logistical preparation to technical team mobilization, through webinar organization, supplier management and final report elaboration, she orchestrated each edition with remarkable precision.\n\n• **Holy Rakotomalala**, founder of IKOLO, being an expert in natural resource valorization, assumed the role of innovation manager and panelist manager. She designed thematic content, selected speakers, ensured panel monitoring-evaluation, and ensured that each speech contributed to a coherent and inspiring vision of natural innovation in Madagascar.\n\n🌱 **A congress serving transformation**\nThe two editions of the INIM Congress allowed:\n• To valorize local sectors: essential oils, plant extracts, cosmetic actives and nutraceuticals\n• To connect producers to international markets\n• To promote public-private partnerships to structure value chains\n• To raise awareness about traceability, quality and ethics in natural resource exploitation\n\nThrough a rich program of panels, workshops, exhibitions and B2B meetings, the congress laid the foundations for an innovation ecosystem rooted in Malagasy biodiversity and open to the world."
+      },
+      "2": {
+        "title": "DESIGN THINKING: COLLABORATIVE IMMERSION BETWEEN 2M CONSULTING, IKOLO AND VINA",
+        "excerpt": "Collaborative workshop on February 8, 2025 bringing together entrepreneurs to design innovative products adapted to client needs.",
+        "category": "Collaborative Innovation",
+        "date": "February 8, 2025",
+        "readTime": "4 min",
+        "content": "🌿 **Design Thinking Workshop: a collaborative immersion between 2M Consulting, IKOLO and VINA**\n\nLast February 8, about twenty entrepreneurs gathered for a day of immersion in product Design Thinking, organized by 2M Consulting in partnership with the Business Support Department of CCIA. This workshop, under the sign of collaborative innovation, allowed participants to appropriate Design Thinking tools to design or improve their products in line with the real needs of their clients.\n\nFor **Holy Rakotomalala**, founder of IKOLO, this day had particular resonance. After more than a year of active consultancy within 2M Consulting, she contributed to the design and animation of several strategic workshops, including this one. This experience allowed her to strengthen her skills in facilitation, entrepreneurial support and innovation pathway structuring.\n\nThe workshop was also marked by the participation of **VINA**, represented by its founder **Anna**. This synergy between IKOLO and VINA perfectly illustrates the spirit of co-creation and entrepreneurial sisterhood that we defend: women leaders uniting to bring forth sustainable solutions adapted to local realities.\n\nIn continuation of this dynamic, IKOLO-VINA commits to promoting learning and collaboration spaces where women entrepreneurs can experiment, exchange and grow together."
+      },
+      "3": {
+        "title": "KENGO KUMA DAY: A DAY DEDICATED TO THE FAMOUS JAPANESE ARCHITECT",
+        "excerpt": "Exceptional event on June 24, 2025 to present the sustainable development project of the Ambalakalanoro site.",
+        "category": "Sustainable Architecture",
+        "date": "June 24, 2025",
+        "readTime": "5 min",
+        "content": "**KENGO KUMA DAY: A DAY DEDICATED TO THE FAMOUS JAPANESE ARCHITECT KENGO KUMA**\n\nLast June 24, 2025, Bois Vert Antananarivo hosted an exceptional event: Kengo Kuma Day, a day dedicated to the official presentation of the sustainable development project of the Ambalakalanoro site, in the presence of the famous Japanese architect Kengo Kuma. This highlight brought together embassy representatives, the Ministry of Tourism and Crafts, associations, private actors and environmental defenders, all mobilized around the same ambition: to lay the foundations for more virtuous tourism in Madagascar.\n\nThis project, carried by the NGO Man and Environment Madagascar and coordinated by Label CBD Consulting, once again brought together the two committed entrepreneurs: **Anna**, Founder of Vina Consulting and **Holy Rakotomalala**, founder of IKOLO.\n\n🤝 **Female coordination serving a shared vision**\n\n**Anna** ensured the general co-coordination of the event with Label CBD, from logistics to communication, through team mobilization and supplier management. Her rigor and ability to federate allowed her to meet this challenge in record time.\n\n**Holy**, for her part, took charge of technical coordination, VIP guest reception management and press relations. Her attention to detail, federative energy and expertise in event management largely contributed to the fluidity and visibility of this day.\n\n🌱 **Ambalakalanoro: a jewel to preserve**\nThe Ambalakalanoro site, carried by the NGO Man and Environment, was at the heart of discussions. A true biodiversity gem, it embodies the potential of responsible tourism, rooted in nature and respectful of local communities. Kengo Kuma Day initiated a collective reflection on its development, in connection with the principles of sustainability, bioclimatic architecture and valorization of Malagasy natural heritage."
+      }
+    }
+  },
+
+
+  "contact": {
+    "social": {
+      "title": "Follow us",
+      "community": "Join our community",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "linkedin": "LinkedIn"
+    },
+    "form": {
+      "title": "CONTACT",
+      "name": {
+        "placeholder": "Full name"
+      },
+      "email": {
+        "placeholder": "Email address"
+      },
+      "message": {
+        "placeholder": "Your message"
+      },
+      "recaptcha": {
+        "title": "Security verification",
+        "error": "Please complete the security verification"
+      },
+      "recaptchaError": "Please complete the security verification",
+      "submitError": "Sending error",
+      "networkError": "An error occurred while sending.",
+      "submitting": "Sending...",
+      "submit": "Send message",
+      "successMessage": "Message sent successfully! We'll get back to you soon.",
+      "errorMessage": "An error occurred while sending the message. Please try again.",
+      "completeSecurity": "Complete security"
+    },
+    "location": {
+      "title": "Our headquarters",
+      "mapTitle": "Company headquarters - 5 Rue Pasteur, Douanes Magasins Généraux, Antananarivo, Madagascar",
+      "area": "Antanimena",
+      "address": "Antananarivo, 101",
+      "city": "Madagascar",
+      "country": "",
+      "hours": "Mon-Fri: 9am-4pm"
+    }
+  },
+
+
+  "legal": {
+    "hero": {
+      "title": "Legal Notice",
+      "subtitle": "Legal information of the consortium"
+    },
+    "cards": {
+      "publisher": {
+        "title": "Publisher",
+        "content": "Ikolo-Vina Consortium"
+      },
+      "publication": {
+        "title": "Publication",
+        "content": "Felana Anna RAMAHANDRISON\nHoliniaina Norohariliva RAKOTOMALALA"
+      }
+    },
+    "information": {
+      "title": "Legal Information",
+      "consortium": {
+        "title": "Ikolo-Vina Consortium",
+        "ikolo": {
+          "title": "Ikolo",
+          "content": "Holiniaina Norohariliva RAKOTOMALALA\nNatural cosmetic expertise"
+        },
+        "vina": {
+          "title": "Vina Consulting",
+          "content": "Felana Anna RAMAHANDRISON\nStrategy & Communication"
+        }
+      },
+      "intellectualProperty": {
+        "title": "Intellectual Property",
+        "content": "All elements of the site (texts, images, logos) are the exclusive property of the Ikolo-Vina consortium. Any reproduction requires prior authorization."
+      },
+      "hosting": {
+        "title": "Hosting",
+        "content": "Site hosted by [Host name] - [Address]\nCompliant with current security standards."
+      },
+      "contact": {
+        "title": "Legal Contact",
+        "email": "ikolovinaconsortium@gmail.com"
+      }
+    },
+    "lastUpdate": "Last update"
+  },
+
+
+  "privacy": {
+    "hero": {
+      "title": "Privacy Policy",
+      "subtitle": "Protection of your data, our commitment"
+    },
+    "cards": {
+      "dataCollection": {
+        "title": "Data Collected",
+        "content": "Only the essentials to meet your needs"
+      },
+      "protection": {
+        "title": "Protection",
+        "content": "Maximum security for your information"
+      },
+      "rights": {
+        "title": "Your Rights",
+        "content": "Access, rectification and deletion"
+      }
+    },
+    "information": {
+      "commitment": {
+        "title": "Our Commitment",
+        "content": "At Ikolo-Vina, we protect your personal data with the utmost care. We only collect the information necessary to provide you with the best services."
+      },
+      "dataUsage": {
+        "title": "Use of data",
+        "content": "Responding to your requests, improving our services, sending information (with consent)"
+      },
+      "dataSharing": {
+        "title": "Data sharing",
+        "content": "Only with our technical providers and if required by law"
+      },
+      "gdprRights": {
+        "title": "Your GDPR rights",
+        "content": "Right of access, rectification, deletion, portability and opposition"
+      },
+      "contact": {
+        "title": "DPO Contact",
+        "email": "ikolovinaconsortium@gmail.com"
+      }
+    },
+    "lastUpdate": "Last update"
+  },
+
+
+  "notFound": {
+    "message": "Oops — the page you're looking for cannot be found.",
+    "backToHome": "Back to home"
+  }
+}
