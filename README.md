@@ -9,3 +9,5 @@ npm install
 
 # Lancer le serveur de dev
 npm run dev
+#Conseil pour tranquille
+git checkout -b bransaKeliko
